@@ -50,13 +50,12 @@ while True:
     sensorValue = sensor.read_analog() #read between 0 and 1023
     print(sensorValue)
     sleep(100)
-  
-    if (sensorValue > 768):
+    if (sensorValue >= 768):
         lightPattern1()
-    if (sensorValue < 512 and sensorValue >= 768):
+    if (sensorValue >= 640 and sensorValue < 768):
         lightPattern2()
-    if (sensorValue < 256 and sensorValue >= 512):
+    if (sensorValue >= 256 and sensorValue < 374):
         lightPattern3()
-    if (sensorValue <= 256):
+    if (sensorValue < 256):
         lightPattern4()
 

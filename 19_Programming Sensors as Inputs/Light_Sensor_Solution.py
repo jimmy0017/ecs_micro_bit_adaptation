@@ -91,7 +91,7 @@ while True:
     # this can also be done with an if-else-if chain
     if (brightness >= 200):
         light10()
-    if (brightness >= 160 and brightness < 160):
+    if (brightness >= 160 and brightness < 200):
         light8()
     if (brightness >= 120 and brightness < 160):
         light6()

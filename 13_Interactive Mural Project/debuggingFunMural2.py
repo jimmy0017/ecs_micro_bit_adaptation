@@ -41,15 +41,15 @@ def allOff():
     pin2.write_digital(0)
 
 def blink():
-    allOn
+    allOn()
     sleep(500)
-    allOff
+    allOff()
     sleep(500)
 
 def blinkFast():
-    allOn
+    allOn()
     sleep(100)
-    allOff
+    allOff()
     sleep(100)
 
 # ACTIVITY SECTION: This is one big loop. Whatever you put in here 
