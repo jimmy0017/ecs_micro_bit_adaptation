@@ -1,90 +1,58 @@
-# *Instructional Days:*20-31. *Human Sensor Project.*
+# Instructional Days:20-31. Human Sensor Project.
 
-**Topic Description:**Students will design and craft a Human Sensor Project.
+## Topic Description:
+Students will design and craft a Human Sensor Project.
 
-**— Note: PLEASE BE AWARE THAT ALUMINUM PATCHES WILL NEED TO BE MADE IN ADVANCE OF THE “TESTING ALUMINUM FOIL SENSORS” LESSON. EXTRA PREP TIME WILL BE NECESSARY.—**
+** Note: PLEASE BE AWARE THAT ALUMINUM PATCHES WILL NEED TO BE MADE IN ADVANCE OF THE “TESTING ALUMINUM FOIL SENSORS” LESSON. EXTRA PREP TIME WILL BE NECESSARY. **
 
-**Objectives:**
+## Objectives:
 Students will be able to:
 * Apply their knowledge of E-Textiles to create a human sensor project
-
 * Craft a sensor from aluminum foil
-
 * Demonstrate understanding that humans can vary in their conductivity when interacting with the aluminum foil sensor
 
 
 
-**Detailed Outline of the Lesson:**
-DESIGN project
+## Detailed Outline of the Lesson:
+### DESIGN project
 * Introduce Project (20 minutes)
-
 	* Brainstorming (25 minutes)
-
 	* Introduce Portfolio (10 minutes)
-
 * Design Human Sensor Project (50 minutes) 
-
 	* Design Notebook (5 minutes)
-
-CONSTRUCT & TEST LIGHTS
+### CONSTRUCT & TEST LIGHTS
 	* Crafting and debugging of lights (105 minutes)
-
 	* Design Notebook (5 minutes)
-
-LESSON: SENSOR RANGES
+### LESSON: SENSOR RANGES
 * Testing aluminum foil sensors (reading a range in a program) (30 minutes) 
-
 	* Debugging Activities (35 minutes)
-
-CONSTRUCT & TEST PATCHES
+### CONSTRUCT & TEST PATCHES
 * Creating aluminum foil sensors (45 minutes)
-
 	* Design Notebook (5 min)
-
 * Crafting, programming, and debugging (155 minutes)
-
 	* Design Notebook (5 minutes)
-
-PORTFOLIO
+### PORTFOLIO
 * Portfolio Formation (110 minutes)
-
 * Human Sensor Demos (55 minutes)
 
-
-
-**Student Activities:**
+## Student Activities:
 * Participate in project introduction
-
 * Brainstorm human sensor project ideas
-
 * Participate in portfolio introduction
-
 * Design their Human Sensor Project (aesthetic design, circuit design, storyboard for code)
-
 * Respond to Design Notebook entry
-
 * Craft and debug light portion of project
-
 * Respond to Design Notebook entry
-
 * Test aluminum foil sensors
-
 * Debug existing code
-
 * Design and craft aluminum foil sensors
-
 * Respond to Design Notebook entry
-
 * Craft, program, and debug project
-
 * Respond to Design Notebook entry
-
 * Assemble portfolio
-
 * Demo human sensor project to class
 
-
-**Preparation:**
+## Preparation:
 * Before the project begins, it is helpful to iron aluminum foil to the iron-on adhesive in large sheets. These will be necessary for students’ patches.
 
 
