@@ -3,7 +3,7 @@
 ## Topic Description:
 Students will design and craft a Human Sensor Project.
 
-** Note: PLEASE BE AWARE THAT ALUMINUM PATCHES WILL NEED TO BE MADE IN ADVANCE OF THE “TESTING ALUMINUM FOIL SENSORS” LESSON. EXTRA PREP TIME WILL BE NECESSARY. **
+**Note: PLEASE BE AWARE THAT ALUMINUM PATCHES WILL NEED TO BE MADE IN ADVANCE OF THE “TESTING ALUMINUM FOIL SENSORS” LESSON. EXTRA PREP TIME WILL BE NECESSARY.**
 
 ## Objectives:
 Students will be able to:
@@ -61,6 +61,7 @@ Students will be able to:
 
 ## Teaching/Learning Strategies:
 ### Introduce Project (20 min)
+
 	* Project can modify an existing textile object like a hoodie, a stuffed animal, or something flat like a placemat, or can be made from scratch using felt. 
 		* Demo teacher project
 			* Point out the aluminum foil sensors and how the circuit between them has to be complete for the project to work
@@ -70,6 +71,7 @@ Students will be able to:
 		* Make connections to Human-Computer Interaction (can connect to other types of wearables such as Fitbits or heartrate shirts)
 		* If making a wearable, where would be appropriate places to put patches that people might touch?
 	* Share Human Sensor Sample Rubric
+
 ### Brainstorming (25 min)
 	* Have each student take a few minutes to come up with many different project ideas that can be used by them or someone else in the class.
 	* Have students share their ideas with elbow partners.
