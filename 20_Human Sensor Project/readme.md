@@ -116,79 +116,79 @@ Based on your design, what are some things you’d like to keep in mind while cr
 * *Cue students to remember that they can use these answers in their portfolio.*
 
 ### Exploring aluminum foil sensors (30 min)
-	* Have sets of foil patches (enough for 1 set per pair of students)
-		* A set would be two similar sized patches
-		* Have various sized sets: small, medium, large, or extra large (optional)
-	* Distribute a set of foil patches to pairs of students. 
-	* Connect one of the student’s partially-completed micro:bit project using alligator clips to the provided sensors. 
-		* Have each pair load the code for reading the human sensor patches:  [ReadYourHumanSensor_SAMPLE.py](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/ReadYourHumanSensor_SAMPLE.py)  
-		* Invite students to connect patches based on the code. One patch must be connected to ground (negative). 
-	* Class Discussion: Experimenting with patches while looking at sensor readings (Consider adapt the following questions & experimentation)
-		* What happens when one of you squeezes both patches? 
-		* What happens when you touch the patches together? Why do you think it goes down that low? 
-		* What happens if each of you put one hand on one and then hold hands? [Optional but quite fun to experiment with]
-	* Testing sensor ranges
-		* In pairs, have students complete the first row in  [Testing Aluminum Foil Sensors handout](https://drive.google.com/open?id=1P7thCNTanTWcd66WFMksBdmgC42a-Uh0xQbfdEI3UDA) . 
-		* Leave this form at each computer (either digitally open, or physically in front of the computer).
-		* Each pair will then rotate to others’ projects, writing down the ranges on the form at each computer as they squeeze. Students should cover as many stations as they can within a limited amount of time.
-		* Have students return to their original stations and look at the results of their classmates on the computer.
-	* Class discussion:
-		* As a class: Invite students to share the overall ranges that each group came up with (students may note some variance amongst individuals). 
-		* Ask students the following questions:
-			* Why are these ranges different? 
-				* Answers might refer to the size of the patches or individual’s personal conductivity.
-			* Is there a relationship between the patch size and the number? Talk to your partner about that.
-	* Number line discussion:
-		* Draw a number line on the board to talk through how students can translate the possible ranges on their sensor to useable ranges that they can use to program different effects
-		* Ask students the following questions:
-			* Where might you put different ranges, such as “not touching” or “squeezing really hard”? 
-			* How can you write those mathematically? (i.e., with >, <, = expressions) 
-	* Students complete the handout in pairs:
-		* Tell students to take a look at the ranges that were written on their spreadsheet and to think about what ranges would be good for all users. Ask, “If you wanted everyone in this room to use this project, what would be the best ranges for the different patterns? Talk about this with your partner, then type some numbers in.”
-		* Groups can come up with appropriate ranges and accompanying descriptions they would use for these sensors. Descriptions can be in their own words such as “not touching” or “lightly touching” 
-	* Class discussion:
-		* Have students share answers to questions at the bottom of the handout
-		* Ask what existing code could help us manipulate the conditionals for our human sensor projects?  
-			* Guide them to the light sensor code from Day 19.
-	* Optional extension: Students could begin coding some lights to work with the practice sensors, if they figure out the ranges quickly [they could use the light sensor code as a model for how to do this.].
+* Have sets of foil patches (enough for 1 set per pair of students)
+	* A set would be two similar sized patches
+	* Have various sized sets: small, medium, large, or extra large (optional)
+* Distribute a set of foil patches to pairs of students. 
+* Connect one of the student’s partially-completed micro:bit project using alligator clips to the provided sensors. 
+	* Have each pair load the code for reading the human sensor patches:  [ReadYourHumanSensor_SAMPLE.py](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/ReadYourHumanSensor_SAMPLE.py)  
+	* Invite students to connect patches based on the code. One patch must be connected to ground (negative). 
+* Class Discussion: Experimenting with patches while looking at sensor readings (Consider adapt the following questions & experimentation)
+	* What happens when one of you squeezes both patches? 
+	* What happens when you touch the patches together? Why do you think it goes down that low? 
+	* What happens if each of you put one hand on one and then hold hands? [Optional but quite fun to experiment with]
+* Testing sensor ranges
+	* In pairs, have students complete the first row in  [Testing Aluminum Foil Sensors handout](https://drive.google.com/open?id=1P7thCNTanTWcd66WFMksBdmgC42a-Uh0xQbfdEI3UDA) . 
+	* Leave this form at each computer (either digitally open, or physically in front of the computer).
+	* Each pair will then rotate to others’ projects, writing down the ranges on the form at each computer as they squeeze. Students should cover as many stations as they can within a limited amount of time.
+	* Have students return to their original stations and look at the results of their classmates on the computer.
+* Class discussion:
+	* As a class: Invite students to share the overall ranges that each group came up with (students may note some variance amongst individuals). 
+	* Ask students the following questions:
+		* Why are these ranges different? 
+			* Answers might refer to the size of the patches or individual’s personal conductivity.
+		* Is there a relationship between the patch size and the number? Talk to your partner about that.
+* Number line discussion:
+	* Draw a number line on the board to talk through how students can translate the possible ranges on their sensor to useable ranges that they can use to program different effects
+	* Ask students the following questions:
+		* Where might you put different ranges, such as “not touching” or “squeezing really hard”? 
+		* How can you write those mathematically? (i.e., with >, <, = expressions) 
+* Students complete the handout in pairs:
+	* Tell students to take a look at the ranges that were written on their spreadsheet and to think about what ranges would be good for all users. Ask, “If you wanted everyone in this room to use this project, what would be the best ranges for the different patterns? Talk about this with your partner, then type some numbers in.”
+	* Groups can come up with appropriate ranges and accompanying descriptions they would use for these sensors. Descriptions can be in their own words such as “not touching” or “lightly touching” 
+* Class discussion:
+	* Have students share answers to questions at the bottom of the handout
+	* Ask what existing code could help us manipulate the conditionals for our human sensor projects?  
+		* Guide them to the light sensor code from Day 19.
+* Optional extension: Students could begin coding some lights to work with the practice sensors, if they figure out the ranges quickly [they could use the light sensor code as a model for how to do this.].
 
 ### Debugging activities (35 min)
-	* Assign pairs to work on one of the following (distribute them across different pairs) “ [Debugging Fun Sensor1](https://drive.google.com/open?id=1DipMasLPhMleB3bXAzBmJLpYbstvji97asVoSn4YgLs) ,” “ [Debugging Fun Sensor2](https://drive.google.com/open?id=1fY6VGkhvFSbEjFq8zjdmC2jslWES7y1PoPegmmgBQBI) ,” “ [Debugging Fun Sensor3](https://drive.google.com/open?id=1Zzs2d98KmZs4ZI_p1I159rnk0cBLRcqRyipzZAZNg_U) ,” or “ [Debugging Fun Sensor4](https://drive.google.com/open?id=18JtNnBOQo2jnodbg8JvRNMlqr9_69VbFfZ-nSs-rWyk) ”.
-		* Have them complete #1.
-	* Have students load the corresponding code files, which they can test using their own Human Sensor project :  [debuggingFunSensor1 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor1.py) ,  [debuggingFunSensor2 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor2.py) ,  [debuggingFunSensor3 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor3.py) , or  [debuggingFunSensor4 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor4.py) 
-		* If they use their own Human Sensor Project, make sure to remind them to modify the pin numbers to match their project in the Naming Section. Then have them run the code and answer #2.
-		* Alternatively, you can run the program for the students as a whole class and have them complete #2.
-		* Have students complete their debugging assignments.
-	* After finishing, have each pair join another pair with the other debugging assignments and share their scenarios and answers.
-	* See  [Debugging Fun Sensor1 solution](https://drive.google.com/open?id=1-lc_NSOBkt1GwX4hVZSpAhqcDCF9lIHGLrDglX8NCPU) ,  [Debugging Fun Sensor2 solution](https://drive.google.com/open?id=1gOJcJxnOFnzLQnc8ykgJmmtqBfzWuj_JY39SRlpZnL0) ,  [Debugging Fun Sensor3 solution](https://drive.google.com/open?id=1OLjao6dSUaSsyhaOkB-I3gZvWu9Ymhpwi8BNGyX6We0) , and  [Debugging Fun Sensor4 solution](https://drive.google.com/open?id=1SLCQNYANPEVLxjwYByS3-d_fQxvHnuSI0NpFQbQJ2qo) .
+* Assign pairs to work on one of the following (distribute them across different pairs) “ [Debugging Fun Sensor1](https://drive.google.com/open?id=1DipMasLPhMleB3bXAzBmJLpYbstvji97asVoSn4YgLs) ,” “ [Debugging Fun Sensor2](https://drive.google.com/open?id=1fY6VGkhvFSbEjFq8zjdmC2jslWES7y1PoPegmmgBQBI) ,” “ [Debugging Fun Sensor3](https://drive.google.com/open?id=1Zzs2d98KmZs4ZI_p1I159rnk0cBLRcqRyipzZAZNg_U) ,” or “ [Debugging Fun Sensor4](https://drive.google.com/open?id=18JtNnBOQo2jnodbg8JvRNMlqr9_69VbFfZ-nSs-rWyk) ”.
+	* Have them complete #1.
+* Have students load the corresponding code files, which they can test using their own Human Sensor project :  [debuggingFunSensor1 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor1.py) ,  [debuggingFunSensor2 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor2.py) ,  [debuggingFunSensor3 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor3.py) , or  [debuggingFunSensor4 code](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/debuggingFunSensor4.py) 
+	* If they use their own Human Sensor Project, make sure to remind them to modify the pin numbers to match their project in the Naming Section. Then have them run the code and answer #2.
+	* Alternatively, you can run the program for the students as a whole class and have them complete #2.
+	* Have students complete their debugging assignments.
+* After finishing, have each pair join another pair with the other debugging assignments and share their scenarios and answers.
+* See  [Debugging Fun Sensor1 solution](https://drive.google.com/open?id=1-lc_NSOBkt1GwX4hVZSpAhqcDCF9lIHGLrDglX8NCPU) ,  [Debugging Fun Sensor2 solution](https://drive.google.com/open?id=1gOJcJxnOFnzLQnc8ykgJmmtqBfzWuj_JY39SRlpZnL0) ,  [Debugging Fun Sensor3 solution](https://drive.google.com/open?id=1OLjao6dSUaSsyhaOkB-I3gZvWu9Ymhpwi8BNGyX6We0) , and  [Debugging Fun Sensor4 solution](https://drive.google.com/open?id=1SLCQNYANPEVLxjwYByS3-d_fQxvHnuSI0NpFQbQJ2qo) .
 
 ### Creating & testing aluminum foil sensors (45 min)
-	* Set up an ironing station. Have students craft the aluminum foil patches for their individual projects, iron them on, and sew their sensor circuits. Have students debug as necessary (e.g., short circuits, loose stitches, patches that are too small).
-	* Using the earlier activity/handout from “Testing Aluminum Foil Sensors” (see below) as a guide, ask students to test their own patches and write down the minimum and maximum ranges they can achieve. Students define appropriate ranges for their light behaviors and insert them in #3 of their  [Human Sensor Storyboard.pdf](https://drive.google.com/open?id=1UkhNSXk0uk0r5IxKnGA6rXNECIq7-f8SXIlXLGEw78E) .
+* Set up an ironing station. Have students craft the aluminum foil patches for their individual projects, iron them on, and sew their sensor circuits. Have students debug as necessary (e.g., short circuits, loose stitches, patches that are too small).
+* Using the earlier activity/handout from “Testing Aluminum Foil Sensors” (see below) as a guide, ask students to test their own patches and write down the minimum and maximum ranges they can achieve. Students define appropriate ranges for their light behaviors and insert them in #3 of their  [Human Sensor Storyboard.pdf](https://drive.google.com/open?id=1UkhNSXk0uk0r5IxKnGA6rXNECIq7-f8SXIlXLGEw78E) .
 
 ### Design Notebook:
 Write down/diagram some tips for crafting projects that use aluminum foil sensors. (5 min)
 
 ### Finish crafting, programming, and debugging (155 min)
-	* Have students complete their  [Human Sensor Storyboard.pdf](https://drive.google.com/open?id=1UkhNSXk0uk0r5IxKnGA6rXNECIq7-f8SXIlXLGEw78E) 
-	* Have students finish crafting, programming, and debugging their human sensor projects.
-		* If students need more guidance programming the ranges for their senses they may use:  [ECS_HumanSensor_Starter_MOREHELP.py](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/ECS_HumanSensor_Starter_MOREHELP.py) 
-	* Remember to have students take pictures regularly and jot notes in their Design Notebooks about changes they make.
+* Have students complete their  [Human Sensor Storyboard.pdf](https://drive.google.com/open?id=1UkhNSXk0uk0r5IxKnGA6rXNECIq7-f8SXIlXLGEw78E) 
+* Have students finish crafting, programming, and debugging their human sensor projects.
+	* If students need more guidance programming the ranges for their senses they may use:  [ECS_HumanSensor_Starter_MOREHELP.py](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/ECS_HumanSensor_Starter_MOREHELP.py) 
+* Remember to have students take pictures regularly and jot notes in their Design Notebooks about changes they make.
 
 ### Design Notebook: 
 Reflecting on your project, how did it turn out compared to your original plan? What changed? (5 min)
 
 ### Portfolio Formation (110 min)
-	* Re-introduce the  [portfolio assignment](https://drive.google.com/open?id=1mefY64H6t2_xuC7kTYg9PHVDPmwTvear3KIQr9NQA_o)  (can be passed out as a one-page handout, see below). There are three sections: description of final project, description of process (revision or challenges), and reflection. 
-	* Teacher may want to re-model sample portfolios or sections of them. Ask students to remember what makes a portfolio helpful for the viewer. If helpful, use the  [exemplar portfolio](https://drive.google.com/file/d/1l46nigRC0GXzgdMIgzYfK9_quhHlAMaD/view)  for reference again. Share the  [Tips for Using Evidence handout as a reference for students](https://drive.google.com/file/d/1c5OrpDxdAxTFdpyYyZM-Jg7v6ZjdJXNR/view?usp=sharing) .
-	* Have students compile their artifacts, and choose which challenges or revisions they want to write about. 
-	* See  [Portfolio Sample Rubric](https://drive.google.com/open?id=1CIimhNCREzHtE7vMdOQguVXKFjyI6IVo-X3h8uzvzJI) 
+* Re-introduce the  [portfolio assignment](https://drive.google.com/open?id=1mefY64H6t2_xuC7kTYg9PHVDPmwTvear3KIQr9NQA_o)  (can be passed out as a one-page handout, see below). There are three sections: description of final project, description of process (revision or challenges), and reflection. 
+* Teacher may want to re-model sample portfolios or sections of them. Ask students to remember what makes a portfolio helpful for the viewer. If helpful, use the  [exemplar portfolio](https://drive.google.com/file/d/1l46nigRC0GXzgdMIgzYfK9_quhHlAMaD/view)  for reference again. Share the  [Tips for Using Evidence handout as a reference for students](https://drive.google.com/file/d/1c5OrpDxdAxTFdpyYyZM-Jg7v6ZjdJXNR/view?usp=sharing) .
+* Have students compile their artifacts, and choose which challenges or revisions they want to write about. 
+* See  [Portfolio Sample Rubric](https://drive.google.com/open?id=1CIimhNCREzHtE7vMdOQguVXKFjyI6IVo-X3h8uzvzJI) 
 
 ### Share Human Sensor Projects! (55 min)
-	* Have students share their human sensor projects as a capstone to the unit. 
-	* Options:
-		* Gallery walk or e-textiles show. Have students walk around the class, interact with projects. For feedback: Put a piece of paper by each project and ask students to write down something they like
-		* Have students do a brief show and tell (if time is a problem, use a timer for 1-2 min per student). 
+* Have students share their human sensor projects as a capstone to the unit. 
+* Options:
+	* Gallery walk or e-textiles show. Have students walk around the class, interact with projects. For feedback: Put a piece of paper by each project and ask students to write down something they like
+	* Have students do a brief show and tell (if time is a problem, use a timer for 1-2 min per student). 
 
 ## Resources:
 * Materials for each student: micro:bit, computer, micro usb cable, Li-Po battery, ~6 LilyPad LEDs, pre-ironed aluminum patches
