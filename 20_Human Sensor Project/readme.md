@@ -22,8 +22,8 @@ Students will be able to:
 	* Design Notebook (5 minutes)
 
 ### CONSTRUCT & TEST LIGHTS
-	* Crafting and debugging of lights (105 minutes)
-	* Design Notebook (5 minutes)
+* Crafting and debugging of lights (105 minutes)
+* Design Notebook (5 minutes)
 
 ### LESSON: SENSOR RANGES
 * Testing aluminum foil sensors (reading a range in a program) (30 minutes) 
@@ -61,60 +61,59 @@ Students will be able to:
 
 ## Teaching/Learning Strategies:
 ### Introduce Project (20 min)
-
-	* Project can modify an existing textile object like a hoodie, a stuffed animal, or something flat like a placemat, or can be made from scratch using felt. 
-		* Demo teacher project
-			* Point out the aluminum foil sensors and how the circuit between them has to be complete for the project to work
-			* The sensors give different readings, just like the light analog sensor
-			* Larger sensors usually give a wider range of values
-	* Talk about humans as conductive entities (we’re mostly made of water!). Computers can measure the electricity we conduct with our human body.
-		* Make connections to Human-Computer Interaction (can connect to other types of wearables such as Fitbits or heartrate shirts)
-		* If making a wearable, where would be appropriate places to put patches that people might touch?
-	* Share Human Sensor Sample Rubric
+* Project can modify an existing textile object like a hoodie, a stuffed animal, or something flat like a placemat, or can be made from scratch using felt. 
+	* Demo teacher project
+		* Point out the aluminum foil sensors and how the circuit between them has to be complete for the project to work
+		* The sensors give different readings, just like the light analog sensor
+		* Larger sensors usually give a wider range of values
+* Talk about humans as conductive entities (we’re mostly made of water!). Computers can measure the electricity we conduct with our human body.
+	* Make connections to Human-Computer Interaction (can connect to other types of wearables such as Fitbits or heartrate shirts)
+	* If making a wearable, where would be appropriate places to put patches that people might touch?
+* Share Human Sensor Sample Rubric
 
 ### Brainstorming (25 min)
-	* Have each student take a few minutes to come up with many different project ideas that can be used by them or someone else in the class.
-	* Have students share their ideas with elbow partners.
-	* Students will pair-share a few ideas with the whole class. They can be written on the board so undecided students can get inspiration.
-	* Have students decide what they want to do for their project. If they decide to use something from home, they should bring it in for the design phase.
+* Have each student take a few minutes to come up with many different project ideas that can be used by them or someone else in the class.
+* Have students share their ideas with elbow partners.
+* Students will pair-share a few ideas with the whole class. They can be written on the board so undecided students can get inspiration.
+* Have students decide what they want to do for their project. If they decide to use something from home, they should bring it in for the design phase.
 ### Introduction of Portfolio (10 min)
-	* Introduce the idea of the portfolio. Instead of a test or just a working project, the final evaluation of this project will include the project itself and a reflective “portfolio” where students can share things that went well, issues they had to address, and tips and tricks for future students working on this project.
-		* See [ Portfolio Description](https://docs.google.com/document/d/1mefY64H6t2_xuC7kTYg9PHVDPmwTvear3KIQr9NQA_o/edit?usp=sharing)  and  [Sample Portfolio Rubric](https://docs.google.com/document/d/1CIimhNCREzHtE7vMdOQguVXKFjyI6IVo-X3h8uzvzJI/edit?usp=sharing) .
-	* Share the  [exemplar portfolio](https://drive.google.com/file/d/1l46nigRC0GXzgdMIgzYfK9_quhHlAMaD/view) . Feel free to use the  [Tips for Using Evidence handout](https://drive.google.com/open?id=1c5OrpDxdAxTFdpyYyZM-Jg7v6ZjdJXNR)  to help guide the discussion. Discuss as a class:
-		* What makes a good portfolio? What helps you to understand the challenges people worked through?
-		* What helps to make “evidence” understandable? (I.e., annotating pictures, putting an arrow to problem areas)
-		* What could help you illustrate your progress? (taking pictures every day, taking screenshots of the code with error messages, noting things that you fixed along the way)
-	* Students may want to be especially aware of things that don’t go as they planned, changes they make, and solutions they come up with. These will be written out for several journal questions which they can use to make creating the portfolio easier. They can also take pictures during the creation of the project to use later.
-	* They should keep all versions of their circuit diagrams, journal responses, and any other things they want to note.
-	* /Every day before leaving class/: Take a picture of your project or save a version of your code. These can be used as artifacts in the portfolio.
+* Introduce the idea of the portfolio. Instead of a test or just a working project, the final evaluation of this project will include the project itself and a reflective “portfolio” where students can share things that went well, issues they had to address, and tips and tricks for future students working on this project.
+	* See [ Portfolio Description](https://docs.google.com/document/d/1mefY64H6t2_xuC7kTYg9PHVDPmwTvear3KIQr9NQA_o/edit?usp=sharing)  and  [Sample Portfolio Rubric](https://docs.google.com/document/d/1CIimhNCREzHtE7vMdOQguVXKFjyI6IVo-X3h8uzvzJI/edit?usp=sharing) .
+* Share the  [exemplar portfolio](https://drive.google.com/file/d/1l46nigRC0GXzgdMIgzYfK9_quhHlAMaD/view) . Feel free to use the  [Tips for Using Evidence handout](https://drive.google.com/open?id=1c5OrpDxdAxTFdpyYyZM-Jg7v6ZjdJXNR)  to help guide the discussion. Discuss as a class:
+	* What makes a good portfolio? What helps you to understand the challenges people worked through?
+	* What helps to make “evidence” understandable? (I.e., annotating pictures, putting an arrow to problem areas)
+	* What could help you illustrate your progress? (taking pictures every day, taking screenshots of the code with error messages, noting things that you fixed along the way)
+* Students may want to be especially aware of things that don’t go as they planned, changes they make, and solutions they come up with. These will be written out for several journal questions which they can use to make creating the portfolio easier. They can also take pictures during the creation of the project to use later.
+* They should keep all versions of their circuit diagrams, journal responses, and any other things they want to note.
+* /Every day before leaving class/: Take a picture of your project or save a version of your code. These can be used as artifacts in the portfolio.
 ### Design Human Sensor Project (50 min)
-	* Have students create a rough aesthetic drawing that focuses on design (what the project will look like, where electrical components things will be placed).
-		* This should include the shape of their aluminum foil patches (which do not have to look the same, though should be of appropriate size for good conductivity - *at least* one-inch in diameter, bigger is generally better)
-		* Have students take a picture of their drawing!
-	* Have students create a circuit diagram (blueprint):
-		* Labeling the pin number next to each component and indicating negative and positive lines in different colors will make crafting and programming easier.
-		* Have students take a picture of iterations of their design and circuit diagrams.
-		* **WARNING: Do NOT use the 3V for anything. Ever.The voltage is too high and will burn out your components!**
-		* The other aluminum foil patch should be connected directly to a negative pin. 
-			* **TIP:**Other components can be connected to the negative patch or the specified GND pins as a ground
-			* Other pins on the micro:bit can be made into additional grounds to make connections easier.
-			* Just program the pin as OUTPUT and digitalWrite it to be LOW.
-			* If students do this, make sure they indicate these changes clearly on their blueprint
+* Have students create a rough aesthetic drawing that focuses on design (what the project will look like, where electrical components things will be placed).
+	* This should include the shape of their aluminum foil patches (which do not have to look the same, though should be of appropriate size for good conductivity - *at least* one-inch in diameter, bigger is generally better)
+	* Have students take a picture of their drawing!
+* Have students create a circuit diagram (blueprint):
+	* Labeling the pin number next to each component and indicating negative and positive lines in different colors will make crafting and programming easier.
+	* Have students take a picture of iterations of their design and circuit diagrams.
+	* **WARNING: Do NOT use the 3V for anything. Ever.The voltage is too high and will burn out your components!**
+	* The other aluminum foil patch should be connected directly to a negative pin. 
+		* **TIP:** Other components can be connected to the negative patch or the specified GND pins as a ground
+	* Other pins on the micro:bit can be made into additional grounds to make connections easier.
+		* Just program the pin as OUTPUT and digitalWrite it to be LOW.
+		* If students do this, make sure they indicate these changes clearly on their blueprint
 ### Design Notebook:
 Based on your design, what are some things you’d like to keep in mind while crafting your Human Sensor Project? (5 min)
 
 ### Crafting and debugging of lights (105 min)
-	* Have students complete #1, #2, and #4 of  [Human Sensor Storyboard.pdf](https://docs.google.com/document/d/1UkhNSXk0uk0r5IxKnGA6rXNECIq7-f8SXIlXLGEw78E/edit?usp=sharing) 
-	* Have students sew all of their lights and the micro:bit, following their blueprints.
-	* Testing human sensor project lights:
-		* Students should test each light with a simple program that just turns them on. They can use  [ECS_HumanSensor_Starter_BASIC.py](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/ECS_HumanSensor_Starter_BASIC.py)  as a starting point for their program.
-		* Have students debug as necessary (lights that don’t turn on due to faulty sewing, etc.).
-		* You can use this as an opportunity for a class discussion: Why is it useful to test your lights just by turning them on (as opposed to creating a blinking pattern)?
-		* NOTE_: Students often have a hard time _breaking down a problem_into testable parts. ~Simply turning the lights on~, without coding for sensors or complex lighting patterns, can isolate whether the circuitry is functional. ~Remind students of the problem solving strategies in Unit 2!~ *Design Notebook:* Choose one or more of the following questions to answer (5 min):
-	* What were some modifications you had to make in your design?
-	* What were some bugs you had to fix and how did you fix them?
-	* What was one or more of your biggest challenges so far?
-	* *Cue students to remember that they can use these answers in their portfolio.*
+* Have students complete #1, #2, and #4 of  [Human Sensor Storyboard.pdf](https://docs.google.com/document/d/1UkhNSXk0uk0r5IxKnGA6rXNECIq7-f8SXIlXLGEw78E/edit?usp=sharing) 
+* Have students sew all of their lights and the micro:bit, following their blueprints.
+* Testing human sensor project lights:
+	* Students should test each light with a simple program that just turns them on. They can use  [ECS_HumanSensor_Starter_BASIC.py](https://github.com/jimmy0017/etextilesresearch/blob/master/20_Human%20Sensor%20Project/ECS_HumanSensor_Starter_BASIC.py)  as a starting point for their program.
+	* Have students debug as necessary (lights that don’t turn on due to faulty sewing, etc.).
+	* You can use this as an opportunity for a class discussion: Why is it useful to test your lights just by turning them on (as opposed to creating a blinking pattern)?
+	* NOTE_: Students often have a hard time _breaking down a problem_into testable parts. ~Simply turning the lights on~, without coding for sensors or complex lighting patterns, can isolate whether the circuitry is functional. ~Remind students of the problem solving strategies in Unit 2!~ *Design Notebook:* Choose one or more of the following questions to answer (5 min):
+* What were some modifications you had to make in your design?
+* What were some bugs you had to fix and how did you fix them?
+* What was one or more of your biggest challenges so far?
+* *Cue students to remember that they can use these answers in their portfolio.*
 
 ### Exploring aluminum foil sensors (30 min)
 	* Have sets of foil patches (enough for 1 set per pair of students)
