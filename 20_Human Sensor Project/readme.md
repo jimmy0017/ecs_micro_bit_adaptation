@@ -8,7 +8,7 @@
  	* [CONSTRUCT &amp; TEST LIGHTS](#construct--test-lights)
 	* [LESSON: SENSOR RANGES](#lesson-sensor-ranges)
 	* [CONSTRUCT &amp; TEST PATCHES](#construct--test-patches)
-        * [PORTFOLIO](#portfolio)
+	* [PORTFOLIO](#portfolio)
 * [Student Activities:](#student-activities)
 * [Preparation:](#preparation)
 * [Teaching/Learning Strategies:](#teachinglearning-strategies)
