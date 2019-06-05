@@ -1,7 +1,10 @@
 # Instructional Days:20-31. Human Sensor Project.
 
 ## Table of Content
-[Topic Description](#topic-description)
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Detailed Outline of the Lesson](#detailed-outline-of-the-lesson)
+	* [DESIGN project](#design-project)
 
 
 ## Topic Description:
@@ -14,8 +17,6 @@ Students will be able to:
 * Apply their knowledge of E-Textiles to create a human sensor project
 * Craft a sensor from aluminum foil
 * Demonstrate understanding that humans can vary in their conductivity when interacting with the aluminum foil sensor
-
-
 
 ## Detailed Outline of the Lesson:
 ### DESIGN project
