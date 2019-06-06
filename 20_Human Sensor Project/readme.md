@@ -9,27 +9,27 @@
 	* [LESSON: SENSOR RANGES](#lesson-sensor-ranges)
 	* [CONSTRUCT &amp; TEST PATCHES](#construct--test-patches)
 	* [PORTFOLIO](#portfolio)
-* [Student Activities:](#student-activities)
-* [Preparation:](#preparation)
-* [Teaching/Learning Strategies:](#teachinglearning-strategies)
+* [Student Activities](#student-activities)
+* [Preparation](#preparation)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
 	* [Introduce Project (20 min)](#introduce-project-20-min)
 	* [Brainstorming (25 min)](#brainstorming-25-min)
 	* [Introduction of Portfolio (10 min)](#introduction-of-portfolio-10-min)
 	* [Design Human Sensor Project (50 min)](#design-human-sensor-project-50-min)
-	* [Design Notebook:](#design-notebook)
+	* [Design Notebook](#design-notebook)
 	* [Crafting and debugging of lights (105 min)](#crafting-and-debugging-of-lights-105-min)
 	* [Exploring aluminum foil sensors (30 min)](#exploring-aluminum-foil-sensors-30-min)
 	* [Debugging activities (35 min)](#debugging-activities-35-min)
 	* [Creating &amp; testing aluminum foil sensors (45 min)](#creating--testing-aluminum-foil-sensors-45-min)
-	* [Design Notebook:](#design-notebook-1)
+	* [Design Notebook](#design-notebook-1)
 	* [Finish crafting, programming, and debugging (155 min)](#finish-crafting-programming-and-debugging-155-min)
-	* [Design Notebook:](#design-notebook-2)
+	* [Design Notebook](#design-notebook-2)
 	* [Portfolio Formation (110 min)](#portfolio-formation-110-min)
 	* [Share Human Sensor Projects! (55 min)](#share-human-sensor-projects-55-min)
-* [Resources:](#resources)
+* [Resources](#resources)
 
 
-## Topic Description:
+## Topic Description
 Students will design and craft a Human Sensor Project.
 
 **Note: PLEASE BE AWARE THAT ALUMINUM PATCHES WILL NEED TO BE MADE IN ADVANCE OF THE “TESTING ALUMINUM FOIL SENSORS” LESSON. EXTRA PREP TIME WILL BE NECESSARY.**
