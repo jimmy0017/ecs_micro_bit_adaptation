@@ -1,5 +1,16 @@
 # Instructional Day: 3. DIY Community
 
+Table of Contents
+=================
+
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+* [Resources](#resources)
+* [DIY Community Web Hunt](#diy-community-web-hunt)
+
 ## Topic Description:
 This lesson is an exploration of the DIY Community.
 
