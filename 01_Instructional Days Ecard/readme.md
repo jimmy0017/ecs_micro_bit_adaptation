@@ -1,5 +1,23 @@
 # Instructional Days: 1-2. Ecard!
 
+Table of Contents
+=================
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+ * [Journal Entry](#journal-entry)
+ * [Introduction to Electronic Textiles Unit](#introduction-to-electronic-textiles-unit)
+ * [Introduction to Circuits](#introduction-to-circuits)
+ * [Circuit design](#circuit-design)
+ * [Electronic card construction](#electronic-card-construction)
+ * [Gallery Walk of eCards](#gallery-walk-of-ecards)
+ * [Design Notebook](#design-notebook)
+* [Resources:](#resources)
+* [Electronic Card Sample Rubric](#electronic-card-sample-rubric)
+
+
 ## Topic Description
 This lesson introduces students to basic electronic components and circuitry. Students will design and create a simple circuit on paper (Electronic Greeting Card) that uses a cell battery, copper tape, and one LED light.
 
