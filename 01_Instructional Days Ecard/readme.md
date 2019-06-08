@@ -88,6 +88,7 @@ Students will be able to:
 
 ## Electronic Card Sample Rubric
 Name: _______________________
+
 | Do you have:                                                                               | Possible Points | Yes | No | Points Earned |
 |--------------------------------------------------------------------------------------------|-----------------|-----|----|---------------|
 | Blueprint of a working circuit design: polarity labelled, (+, —), LED position labelled.   | 5               |     |    |               |
