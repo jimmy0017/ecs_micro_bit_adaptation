@@ -14,7 +14,7 @@ Table of Contents
 	 * [Electronic card construction](#electronic-card-construction)
 	 * [Gallery Walk of eCards](#gallery-walk-of-ecards)
 	 * [Design Notebook](#design-notebook)
-* [Resources:](#resources)
+* [Resources](#resources)
 * [Electronic Card Sample Rubric](#electronic-card-sample-rubric)
 
 
@@ -92,7 +92,7 @@ Students will be able to:
 * Record some expert tips on circuits and crafting electronic greeting cards that you would share with a beginner. You may include sketches or diagrams. 
 
 
-## Resources:
+## Resources
 * E-Textiles Technical Guide:
 	* Circuitry [link to Circuitry p. 8]
 	* Materials [link to Materials p. 60]
