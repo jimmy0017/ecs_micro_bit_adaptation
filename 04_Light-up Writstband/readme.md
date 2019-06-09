@@ -115,7 +115,7 @@ Figure 2  [Adding Lights in Parallel](https://drive.google.com/open?id=0Bxk0iHqk
 
 * Have elbow partners review each other’s circuit designs.
 
-![](&&&SFLOCALFILEPATH&&&1BZwIiMVE_8SQSN4TKGUkljcY3Ic42fApqBXcNCfXR1PAT97S7529DBk9qskbo1GAN3JTBLpK1HLR97zS1Ga2930zKC6G_TDT0m4yLJ80LhYJw54KIIvDBDPqxoJDFAQcMGW92zO.png)
+![](wristband1simpleCircuit.png)
 Figure 3.  [Example circuit diagrams](https://drive.google.com/open?id=0Bxk0iHqkw1WFRndGNWQzZ2NINTg) 
 
 ![](&&&SFLOCALFILEPATH&&&rN613fQi_tDXVGqUPP-S0jl842agdSvsfrYe6LROj-pPi0HGot5MOkmzUxhsVETQqwmCqPkJmgz6_rPlWbDJt3f4B28I-JHnVMRkvVSdiuxFV8lAhWeJPeo7rY8ETc0nmTcv2xzP.png)
