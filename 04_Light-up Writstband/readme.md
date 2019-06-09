@@ -81,13 +81,9 @@ Figure 1:  [Paper Circuit to Sewn Circuit](https://drive.google.com/open?id=0Bxk
 * Have a few groups share their tips with class
 
 ### Parallel circuits (15 min)
-
 * Return to the sewn circuit design of students’ wristbands and sewn circuit drawing (see “Original” in Figure 2 below) and ask students how to add the additional 2 LEDS from their aesthetic drawing. Have students discuss how they might do this in pairs. Invite students to suggest how to make the modification to the sewn circuit diagram.
-
 	* Add 2 LEDs below the “Original” circuit diagram from Figure 2. Ask students to share out how they might connect them. Connect them to the circuit as in “Add LEDs Outside” in Figure 2 below.
-
 		* Emphasize the positive and negative sides of the circuit.
-
 	* Going back to the “Original” circuit diagram, ask students if they could add LEDs *in between* the battery and the current LED. Draw your LEDs connected as in “Add LEDs Inside” from Figure 2 below.
 	* Going back to the “Original” circuit diagram, ask students if it would be possible to have the positive leads of the LEDs right next to each other. Draw them as in “Add LEDs by Legs” in Figure 2 below.  Have students suggest how to connect the negative stitches.
 
@@ -186,3 +182,29 @@ DC electricity (5-10 min):
 * Class discussion.
 * Class organizes data and discusses what they have found regarding resistance of the conductive thread. Address the following questions: How does the length of the conductive thread affect the resistance?  How does the quality of the sewing such as stitches per inch and tension on thread affect the resistance?
 * Journal entry: From what you learned about the class data how will that affect your design choices and execution of sewing skills?
+
+**Note:** For rubric below, giving partial credit is encouraged if students partially meet a requirement.
+
+| Electronic Wristband Sample Rubric                                                                                                                                                           | Points Possible | Points Earned |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|---------------|
+| Crafting                                                                                                                                                                                     |                 |               |
+| 1. Wristband has at least 3 lights sewn in parallel.                                                                                                                                         | 10              |               |
+| 2.The battery holder, LEDs, and snaps are securely sewn in (stitched through at least three times).                                                                                          | 5               |               |
+| 3.Stitches are evenly spaced and no wider than ¼ inch in length.                                                                                                                             | 5               |               |
+| 4.Starting and ending knots are secure. No loose or loopy threads are present in the back or front of the fabric.Comments on Crafting:                                                       | 10              |               |
+| Comments on Crafting:                                                                                                                                                                        |                 |               |
+| Circuitry                                                                                                                                                                                    |                 |               |
+| 5.Circuit design blueprint with accurate markings: positive and negative lines, positive and negative sides of the LED, switch, all components are labelled correctly.                       | 15              |               |
+| 6.Project matches the circuit design.                                                                                                                                                        | 10              |               |
+| 7.All LEDs light up.                                                                                                                                                                         | 5               |               |
+| 8.Wristband turns on and off when it is snapped and unsnapped.                                                                                                                               | 10              |               |
+| Comments on Circuitry:                                                                                                                                                                       |                 |               |
+| Overall                                                                                                                                                                                      |                 |               |
+| 9.Design Notebook entries completed.                                                                                                                                                         | 15              |               |
+| 10.Aesthetics: The design appears to be purposeful and/or personal. Care has been taken in the look and feel of the project. Students can justify their design if helpful (written, verbal). | 15              |               |
+| Comments on Overall Aesthetics:                                                                                                                                                              |                 |               |
+| Crafting:                                                                                                                                                                                    |                 |               |
+| Circuitry:                                                                                                                                                                                   |                 |               |
+| Overall:                                                                                                                                                                                     |                 |               |
+| Total:                                                                                                                                                                                       | /100            |               |
+|                                                                                                                                                                                              |                 |               |
