@@ -1,5 +1,29 @@
 # Instructional Days: 4-7. Light-up Wristband
 
+Table of Contents
+=================
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+	 * [Journal Entry (5 min)](#journal-entry-5-min)
+	 * [Introduce Electronic Wristband or Decorative Cuff (5 min)](#introduce-electronic-wristband-or-decorative-cuff-5-min)
+	 * [Aesthetic Drawing (15 min)](#aesthetic-drawing-15-min)
+	 * [Sewing a simple circuit (40 min)](#sewing-a-simple-circuit-40-min)
+	 * [Design Notebook: Write down some sewing tips you would give to a beginner (10 min)](#design-notebook-write-down-some-sewing-tips-you-would-give-to-a-beginner-10-min)
+	 * [Parallel circuits (15 min)](#parallel-circuits-15-min)
+	 * [Design Circuit (20 min)](#design-circuit-20-min)
+	 * [Electronic Wristband (30 min)](#electronic-wristband-30-min)
+	 * [Design Notebook (10 min): Respond to one of the following prompts](#design-notebook-10-min-respond-to-one-of-the-following-prompts)
+	 * [Adding Switches (40 min)](#adding-switches-40-min)
+	 * [Refine &amp; Decorate Wristband (15 min)](#refine--decorate-wristband-15-min)
+	 * [Design Notebook (15 min):](#design-notebook-15-min)
+* [Resources:](#resources)
+* [Recommended Add-on](#recommended-add-on)
+	 * [Volt Ohm exercise: Or how &amp; why to use a multimeter (30min)](#volt-ohm-exercise-or-how--why-to-use-a-multimeter-30min)
+	 * [Students measure ohms and collect data to share (20 min)](#students-measure-ohms-and-collect-data-to-share-20-min)
+
 ## Topic Description
 This lesson introduces electronic sewing and stitching a wearable parallel circuit that includes a switch.
 
