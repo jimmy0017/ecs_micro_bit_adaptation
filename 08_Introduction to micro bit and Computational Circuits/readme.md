@@ -1,6 +1,23 @@
 # Instructional Days: 8-9. Introduction to micro:bit and Computational Circuits
 
-**— Note: This lesson requires you to ~pre-program~ (upload code to) some micro:bit for your students to use. Please plan for the extra prep time. —**
+**— Note: This lesson requires you to pre-program (upload code to) some micro:bit for your students to use. Please plan for the extra prep time. —**
+
+Table of Contents
+=================
+
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Preparation](#preparation)
+* [Download from Github](#download-from-github)
+* [Upload to Micro:bit](#upload-to-microbit)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+	 * [Journal Entry(10 min)](#journal-entry10-min)
+	 * [Exploring computational circuits (40 min)](#exploring-computational-circuits-40-min)
+	 * [Design Notebook: Respond to one of the following (5 min)](#design-notebook-respond-to-one-of-the-following-5-min)
+	 * [Design project (15 min)](#design-project-15-min)
+* [Resources](#resources)
 
 ## Topic Description
 This lesson introduces how LEDs exhibit various behaviors through computational circuits.
@@ -62,7 +79,7 @@ Students will be able to:
 	* Have some students share out their designs and the expected behavior of their LEDs.
 		* Make connections to the student diagrams from computational circuits.
 	* Highlight a design that uses parallel circuits. Explore the idea of a common ground (one negative line connecting the LEDs’ negative sides to the negative of the micro:bit or battery holder) instead of each LED separately connecting all the way back to the battery holder. Do you think this might change the behavior of the lights? In Activity Three they will practice making parallel circuits.
-	
+
 ### Design Notebook: Respond to one of the following (5 min)
 * Reflecting on the day, what are some things you learned about computational circuits?
 * Explain (draw or write) how to design a computational circuit such that all the lights perform different behaviors.
