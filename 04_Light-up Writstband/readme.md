@@ -141,9 +141,9 @@ Figure 5.  [Adding snaps as switches](https://drive.google.com/open?id=0Bxk0iHqk
 	* Debug as necessary; alligator clips may be used to troubleshoot.
 
 ### Refine & Decorate Wristband (15 min)
-	* Once snaps are complete, students can take time to add to the aesthetics of their wristbands. Felt shapes can be cut and placed on top of LEDs, with or without holes to show the light (small dots of glue or a few stitches with regular thread can keep these pieces on). 
-	* Craft glue can be used to secure the conductive thread knots by preventing fraying.
-	* Students can also take home Wristbands to finesse them. But they must ~bring them back for later activities!!!~
+* Once snaps are complete, students can take time to add to the aesthetics of their wristbands. Felt shapes can be cut and placed on top of LEDs, with or without holes to show the light (small dots of glue or a few stitches with regular thread can keep these pieces on). 
+* Craft glue can be used to secure the conductive thread knots by preventing fraying.
+* Students can also take home Wristbands to finesse them. But they must ~bring them back for later activities!!!~
 
 ### Design Notebook (15 min): 
 * Thinking about your Wristband project, what expert tips would you give someone who is just starting this project (that you wished someone had told you when you started)?
@@ -153,23 +153,14 @@ Figure 5.  [Adding snaps as switches](https://drive.google.com/open?id=0Bxk0iHqk
 
 ## Resources:
 * Materials for each student: sewing needle, cell battery, cell battery holder, 3 LilyPad LEDs, conductive thread, 2 pairs of sewable snaps, felt sheets (~12” long, ~2” wide)
-
 * Materials for student groups/class: fabric scissors, seam rippers, alligator clips, rulers, scotch tape, craft glue, black pencil, red pencil, felt scraps (for practice sewing or decorations), embroidery thread, sewing thread, tracing paper
-
 *  [Wristband Diagram images](https://drive.google.com/open?id=0Bxk0iHqkw1WFTV85SUEzUmxqd28)  [in Teacher Materials - Wristband]
-
 * Electronic Wristband sample rubric
-
 * Design Notebooks
-
 * E-Textiles Technical Guide
-
 	* Sewing [link to (p. 17)]
-
 	* Troubleshooting Electrical Problems [link to(p. 33)]
-
 	* Example of Wristbands [link to (p. 58)]
-
 
 ## Recommended Add-on
 ### Volt Ohm exercise: Or how & why to use a multimeter (30min)
