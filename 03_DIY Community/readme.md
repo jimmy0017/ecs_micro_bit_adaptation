@@ -1,5 +1,16 @@
 # Instructional Day: 3. DIY Community
 
+Table of Contents
+=================
+
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+* [Resources](#resources)
+* [DIY Community Web Hunt](#diy-community-web-hunt)
+
 ## Topic Description:
 This lesson is an exploration of the DIY Community.
 
@@ -62,7 +73,13 @@ Suggested search terms: cooking, gardening, etextiles, cardboard, technology, mi
 
 2. Complete at least 2 rows of the following table by exploring any of the sites listed. Find projects that match the given criteria.  Record its name and the skills involved in completing it.
 
-| Use any of the following sites or one of your own: www.instructables.com macgyverisms.wonderhowto.com www.doityourself.com/forum | Project name | Skills involved to do project |
+Use any of the following sites or one of your own:
+* [www.instructables.com](http://www.instructables.com/) 
+* [macgyverisms.wonderhowto.com](http://macgyverisms.wonderhowto.com/) 
+* [www.doityourself.com/forum](http://www.doityourself.com/forum/) 
+
+ 
+| | Project name | Skills involved to do project |
 |----------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------|
 | Find a project that you’ve never thought of on your own.                                                                         |              |                               |
 | Find a project that you would want to try at home.                                                                               |              |                               |
