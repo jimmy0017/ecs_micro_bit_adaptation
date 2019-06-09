@@ -41,7 +41,7 @@ Thinking back to the Electronic Card, what were the important components of a ci
 * You may want to show “Paper Circuit” from Figure 1 below.
 * With the help of the students, construct the circuit diagram for the Electronic Card on the board (see left side of “Circuit Drawing” in Figure 1 below). This will be used as a starting place to introduce electronic sewing.
 
-![](https://github.com/jimmy0017/etextilesresearch/raw/master/04_Light-up%20Writstband/wristband1simpleCircuit.png)
+![](wristband1simpleCircuit.png)
 Figure 1:  [Paper Circuit to Sewn Circuit](https://drive.google.com/open?id=0Bxk0iHqkw1WFN2tnYmlvMHFkMTQ) 
 
 ### Introduce Electronic Wristband or Decorative Cuff (5 min)
@@ -90,24 +90,21 @@ Figure 1:  [Paper Circuit to Sewn Circuit](https://drive.google.com/open?id=0Bxk
 
 	* Going back to the “Original” circuit diagram, ask students if they could add LEDs *in between* the battery and the current LED. Draw your LEDs connected as in “Add LEDs Inside” from Figure 2 below.
 	* Going back to the “Original” circuit diagram, ask students if it would be possible to have the positive leads of the LEDs right next to each other. Draw them as in “Add LEDs by Legs” in Figure 2 below.  Have students suggest how to connect the negative stitches.
-	
+
 ![](wristband2moreLights.png)
 Figure 2  [Adding Lights in Parallel](https://drive.google.com/open?id=0Bxk0iHqkw1WFdjBDay1CSTdSUFk) 
 
 ### Design Circuit (20 min)
 
 * Have students return to their aesthetic drawing of their wristband on paper which shows the relevant decorative elements they wish to add. Have them either revise their sewn circuit diagram (“blueprint”) to include all three LEDs or draw a new sewn circuit diagram that shows how the different components connect. They may want to use tracing paper for one layer.  Designs should include the battery holder, 3 LEDs, and thread path, making sure to indicate the positive and negative polarities (which can be indicated using black or red pencils).
-
 	* See Figure 3 below for example circuit diagrams and Figure 4 for their corresponding aesthetic drawings with circuit diagrams visible.
-
 	* Show your example wristband as another sample.
-
 * Have elbow partners review each other’s circuit designs.
 
-![]()
+![](wristband3circuitDiagrams.png)
 Figure 3.  [Example circuit diagrams](https://drive.google.com/open?id=0Bxk0iHqkw1WFRndGNWQzZ2NINTg) 
 
-![](&&&SFLOCALFILEPATH&&&rN613fQi_tDXVGqUPP-S0jl842agdSvsfrYe6LROj-pPi0HGot5MOkmzUxhsVETQqwmCqPkJmgz6_rPlWbDJt3f4B28I-JHnVMRkvVSdiuxFV8lAhWeJPeo7rY8ETc0nmTcv2xzP.png)
+![](wristband4aestheticDrawings.png)
 Figure 4.  [Example aesthetic drawings and circuits](https://drive.google.com/open?id=0Bxk0iHqkw1WFVDExUmNLRGp1MVE) 
 
 ### Electronic Wristband (30 min)
@@ -118,42 +115,29 @@ Figure 4.  [Example aesthetic drawings and circuits](https://drive.google.com/op
 * Use alligator clips to debug circuits as necessary. See E-Textiles Technical Guide: Troubleshooting - Electrical Problems [link to p. 33).
 
 ### Design Notebook (10 min): Respond to one of the following prompts
-
 * Draw/write tips for sewing LEDs in parallel.
-
 * What are some of the important aspects of a parallel circuit?
-
 * What are some ways a parallel circuit is different from a simple circuit?
+* *Encouraged:*In addition, take a picture of your Wristband progress so far.* 
 
-* *Encouraged:*In addition, take a picture of your Wristband progress so far.* **Adding Switches (40 min)**:	* Currently students’ wristbands will always be on. Show students a completed Electronic Wristband and ask them how the lights are switched on and off. Ask them what might be the switch for the Wristband. The snap is the switch!
-
+### Adding Switches (40 min)
+* Currently students’ wristbands will always be on. Show students a completed Electronic Wristband and ask them how the lights are switched on and off. Ask them what might be the switch for the Wristband. The snap is the switch!
 * Referring to one of the drawings from Figure 4, have a conversation about creating a switch: 
-
 	* Draw one pair of snaps without connecting them to the circuit.
-
 	* Explain that the snaps are conductive like the thread because they are made of metal.
-
 	* Explain how each of the two ends of the snaps can be made to connect to positive or negative only and how snapping them together completes the circuit.
-
 	* Invite students to edit the design on the board to incorporate the snap as a switch. See Figure 5 below.
-
 	* Emphasize that part of their circuit ~must be cut~ to add the switch. Ask why this is so.
-
 	* Demonstrate how the wristband snaps. Ask students what they need to keep in mind when sewing the snaps. Emphasize that one snap must be on the *back* of the wristband. This is why each of the wristbands in Figure 5 have a corner folded up to reveal the snap on the flipside (see two pictures on left).
-
 	* An additional set of snaps can be added for more security - these have no electrical properties, they are not connected to the circuit and can be sewn with regular (non-conductive) thread.
-
 	* See examples in the E-Textiles  [Technical Guide](https://drive.google.com/open?id=0B23ylAf7b2eARTUyRlVRblkyTDQ)  for more information [link to (pp. u58)]
 
-![](&&&SFLOCALFILEPATH&&&f2Y73x3z0ZBGCkxgHBDOzKDJ2Cht8hgIHlTFhYd03DBWdCfkEY-fNAmfA7rxhokewX9T-RG-8v7ORAK-UNcroaPhtjhcjnXcHaL2wkW3s2x6xdQvnU8IYUn7okuPT-ZVuU6JdbD_.png)
+![](wristband5addSnaps.png)
 Figure 5.  [Adding snaps as switches](https://drive.google.com/open?id=0Bxk0iHqkw1WFZXJkRDc1Tk0xNDQ) 
  
 * Have students revise their own circuit diagrams.
-
 * Students will then sew on snaps as switches to their Wristbands
-
 	* Regular sewing (non-conductive) thread or fabric glue can be used to attach any other extra decorations,to secure the rest of the battery holder, or the extraneous snaps to the fabric. 
-
 	* Debug as necessary; alligator clips may be used to troubleshoot.
 
 ### Refine & Decorate Wristband (15 min)
