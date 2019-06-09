@@ -198,8 +198,8 @@ DC electricity (5-10 min):
 | 6.Project matches the circuit design.                                                                                                                                                        | 10              |               |
 | 7.All LEDs light up.                                                                                                                                                                         | 5               |               |
 | 8.Wristband turns on and off when it is snapped and unsnapped.                                                                                                                               | 10              |               |
-| Comments on Circuitry:                                                                                                                                                                       |                 |               |
-| <td colspan=3> **Overall** |
+| <td colspan=3> Comments on Circuitry:                                                                                                 
+| <td colspan=3> **Overall** 
 | 9.Design Notebook entries completed.                                                                                                                                                         | 15              |               |
 | 10.Aesthetics: The design appears to be purposeful and/or personal. Care has been taken in the look and feel of the project. Students can justify their design if helpful (written, verbal). | 15              |               |
 | Comments on Overall Aesthetics:                                                                                                                                                              |                 |               |
