@@ -19,7 +19,7 @@ Table of Contents
 	 * [Adding Switches (40 min)](#adding-switches-40-min)
 	 * [Refine &amp; Decorate Wristband (15 min)](#refine--decorate-wristband-15-min)
 	 * [Design Notebook (15 min):](#design-notebook-15-min)
-* [Resources:](#resources)
+* [Resources](#resources)
 * [Recommended Add-on](#recommended-add-on)
 	 * [Volt Ohm exercise: Or how &amp; why to use a multimeter (30min)](#volt-ohm-exercise-or-how--why-to-use-a-multimeter-30min)
 	 * [Students measure ohms and collect data to share (20 min)](#students-measure-ohms-and-collect-data-to-share-20-min)
@@ -171,7 +171,7 @@ Figure 5.  [Adding snaps as switches](https://drive.google.com/open?id=0Bxk0iHqk
 	* Have a few groups share their tips with class and/or write them on a board.
 * *Encouraged*: Take a picture of your wristband.
 
-## Resources:
+## Resources
 * Materials for each student: sewing needle, cell battery, cell battery holder, 3 LilyPad LEDs, conductive thread, 2 pairs of sewable snaps, felt sheets (~12” long, ~2” wide)
 * Materials for student groups/class: fabric scissors, seam rippers, alligator clips, rulers, scotch tape, craft glue, black pencil, red pencil, felt scraps (for practice sewing or decorations), embroidery thread, sewing thread, tracing paper
 *  [Wristband Diagram images](https://drive.google.com/open?id=0Bxk0iHqkw1WFTV85SUEzUmxqd28)  [in Teacher Materials - Wristband]
