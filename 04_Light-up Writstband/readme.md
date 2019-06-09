@@ -41,7 +41,7 @@ Thinking back to the Electronic Card, what were the important components of a ci
 * You may want to show “Paper Circuit” from Figure 1 below.
 * With the help of the students, construct the circuit diagram for the Electronic Card on the board (see left side of “Circuit Drawing” in Figure 1 below). This will be used as a starting place to introduce electronic sewing.
 
-![](&&&SFLOCALFILEPATH&&&HFszqa-u4ZVozqFSwn0-hyEJ25XaAoM5IJWkWHsuOssiWMJq_VaGSqi8AJbuuuyRJbaJuMLbz_2ovaNlfiFpar88t4AMsjEg1p_R47TyJDBfdeDtsk1MtAa_TT4mK3GgIr3_7ej1.png)
+![](https://github.com/jimmy0017/etextilesresearch/raw/master/04_Light-up%20Writstband/wristband1simpleCircuit.png)
 Figure 1:  [Paper Circuit to Sewn Circuit](https://drive.google.com/open?id=0Bxk0iHqkw1WFN2tnYmlvMHFkMTQ) 
 
 ### Introduce Electronic Wristband or Decorative Cuff (5 min)
@@ -65,31 +65,19 @@ Figure 1:  [Paper Circuit to Sewn Circuit](https://drive.google.com/open?id=0Bxk
 * Choose which light to draw in and sew first (Ask students which light might be best to do first. Share their reasoning).
 * Create a sewn circuit drawing next to the aesthetic drawing with one LED connected. They will add each component as you introduce them (see “Sewn Circuit” in Figure 1 above). Consult E-Textiles Technical Guide: Sewing Basics [link to (pp. 17)] for more information on each component below: 
 	* Note, the same battery will be used in this project, but instead of using a paperclip to hold it in, the project uses a sewable battery holder
-
 	* Explain the parts of the battery holder. *Warning*: The top metal part of the battery holder is positive. Not all of the holes need to be used for the circuit. Discourage sewing between two holes directly as that can create a short circuit on the negative side of the battery holder.
-
 		* Add the battery holder to the sewn circuit drawing
-
 	* The LED will be a LilyPad LED with special holes for sewing
-
 		* Note the “+” and “–” to denote positive and negative
-
 		* Add the LED to the sewn circuit drawing
-
 		* Note: Figure 1 depicts a traditional LED (we use LilyLEDs)
-
 	* Instead of copper tape, students will use conductive thread
-
 		* Add the thread as stitches to the sewn circuit drawing
-
 		* Red for positive, black for negative 
-
 * Have students sew the first LED based on the sewn circuit drawing.  They will know it works if it turns on when the battery is connected. Debug as necessary.
 
 ### Design Notebook: Write down some sewing tips you would give to a beginner (10 min)
-
 * Have students share with elbow partners
-
 * Have a few groups share their tips with class
 
 ### Parallel circuits (15 min)
@@ -102,7 +90,8 @@ Figure 1:  [Paper Circuit to Sewn Circuit](https://drive.google.com/open?id=0Bxk
 
 	* Going back to the “Original” circuit diagram, ask students if they could add LEDs *in between* the battery and the current LED. Draw your LEDs connected as in “Add LEDs Inside” from Figure 2 below.
 	* Going back to the “Original” circuit diagram, ask students if it would be possible to have the positive leads of the LEDs right next to each other. Draw them as in “Add LEDs by Legs” in Figure 2 below.  Have students suggest how to connect the negative stitches.
-![](&&&SFLOCALFILEPATH&&&ICF698Knd7Hj1zDlK-2cUm8n8cgijl5xz2E3ciFbODJbfAq9gWRjs7p0KefW49oSV46MYarD3bY8zVLq4_zRzP8mVe4D-HpJVmHxgqxcHSyImFWdwBSheDbv-6Auo19Jbt5bwD9x.png)
+	
+![](wristband2moreLights.png)
 Figure 2  [Adding Lights in Parallel](https://drive.google.com/open?id=0Bxk0iHqkw1WFdjBDay1CSTdSUFk) 
 
 ### Design Circuit (20 min)
@@ -115,7 +104,7 @@ Figure 2  [Adding Lights in Parallel](https://drive.google.com/open?id=0Bxk0iHqk
 
 * Have elbow partners review each other’s circuit designs.
 
-![](https://github.com/jimmy0017/etextilesresearch/raw/master/04_Light-up%20Writstband/wristband1simpleCircuit.png)
+![]()
 Figure 3.  [Example circuit diagrams](https://drive.google.com/open?id=0Bxk0iHqkw1WFRndGNWQzZ2NINTg) 
 
 ![](&&&SFLOCALFILEPATH&&&rN613fQi_tDXVGqUPP-S0jl842agdSvsfrYe6LROj-pPi0HGot5MOkmzUxhsVETQqwmCqPkJmgz6_rPlWbDJt3f4B28I-JHnVMRkvVSdiuxFV8lAhWeJPeo7rY8ETc0nmTcv2xzP.png)
