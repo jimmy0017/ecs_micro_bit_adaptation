@@ -11,13 +11,13 @@ Students will be able to:
 * Understand the role of a common ground
 
 ## Preparation
-* Pre-upload “ [preprogrammedCP.py](https://github.com/jimmy0017/etextilesresearch/blob/master/08_Introduction%20to%20micro%20bit%20and%20Computational%20Circuits/preprogrammedCP.py) ” code onto enough micro:bit for each pair of students to use. 
+* Pre-upload “ [preprogrammedCP.py](preprogrammedCP.py) ” code onto enough micro:bit for each pair of students to use. 
 * If you have questions about the micro:bit, check out this  [overview](https://microbit.org/guide/)  by its developer, micro:bit Educational Foundation.
 
 ## Download from Github
 * Click the link of the code.
 * Right click the raw button on the right and hit save as.
-[image:github.png]
+![](github.png)
 
 
 ## Upload to Micro:bit
@@ -62,9 +62,11 @@ Students will be able to:
 	* Have some students share out their designs and the expected behavior of their LEDs.
 		* Make connections to the student diagrams from computational circuits.
 	* Highlight a design that uses parallel circuits. Explore the idea of a common ground (one negative line connecting the LEDs’ negative sides to the negative of the micro:bit or battery holder) instead of each LED separately connecting all the way back to the battery holder. Do you think this might change the behavior of the lights? In Activity Three they will practice making parallel circuits.
+	
 ### Design Notebook: Respond to one of the following (5 min)
 * Reflecting on the day, what are some things you learned about computational circuits?
 * Explain (draw or write) how to design a computational circuit such that all the lights perform different behaviors.
+
 ### Design project (15 min)
 * In their Design Notebooks, have students *brainstorm* at least one project that they could make with the pre-programmed micro:bit. They should describe which pre-programmed light patterns they would use for their projects and how the chosen light patterns would enhance the design of their projects. Students should feel free to include sketches or diagrams.
 * If students need some inspiration, here are some examples:
@@ -73,7 +75,7 @@ Students will be able to:
 * Have students share with elbow partners. 
 * Have a few students share with the class or invite students to put their sketches up on a bulletin board.
 
-### Resources
+## Resources
 * Materials for student pairs: micro:bit,USB micro cables with computer to charge (or LiPo battery with battery charger), alligator clips, Wristband projects from days 4-7 (one per student**)**
 *  [E-Textiles Technical Guide](https://drive.google.com/open?id=0B23ylAf7b2eARTUyRlVRblkyTDQ) 
 *  [preprogrammedCP.py](preprogrammedCP.py) 
