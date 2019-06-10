@@ -4,6 +4,25 @@ This lesson introduces students to Python programming using micro:bit
 
 **NOTE: Make sure that your programming environment works on student computers before starting this lesson. Always test ahead of time to avoid losing class time.**
 
+Table of Contents
+=================
+
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+	 * [Journal Entry  (5 min)](#journal-entry--5-min)
+	 * [Connect the micro:bit to the computer](#connect-the-microbit-to-the-computer)
+	 * [Review layout of program (10 min)](#review-layout-of-program-10-min)
+	 * [Demonstrate how to blink one wristband (15 min)](#demonstrate-how-to-blink-one-wristband-15-min)
+	 * [Pairs code their own blinking patterns with two wristbands (20 min)](#pairs-code-their-own-blinking-patterns-with-two-wristbands-20-min)
+	 * [Debugging Activity (20 min)](#debugging-activity-20-min)
+	 * [Finish blinking patterns (20 min)](#finish-blinking-patterns-20-min)
+	 * [Gallery walk of patterns (10 min)](#gallery-walk-of-patterns-10-min)
+	 * [Design Notebook entry (5 min)](#design-notebook-entry-5-min)
+* [Resources](#resources)
+
 ## Objectives
 Students will be able to:
 * Program a blinking light pattern in Python with their wristbands and a micro:bit.
