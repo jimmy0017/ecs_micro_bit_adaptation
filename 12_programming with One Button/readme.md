@@ -1,5 +1,24 @@
 # Instructional Days:12. Programming with One Switch (simple conditionals).
 
+Table of Contents
+=================
+
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+	 * [Journal Entry (5 min)](#journal-entry-5-min)
+	 * [Review conditionals (10 min)](#review-conditionals-10-min)
+	 * [Using the button to turn an LED on and off (10 min)](#using-the-button-to-turn-an-led-on-and-off-10-min)
+	 * [Create light pattern functions (30 min)](#create-light-pattern-functions-30-min)
+* [Recommended addition: One Button Class Roleplay (40 min total)](#recommended-addition-one-button-class-roleplay-40-min-total)
+	 * [Review of buttons and variables (5-10 min)](#review-of-buttons-and-variables-5-10-min)
+	 * [One Button Roleplay (30 min)](#one-button-roleplay-30-min)
+	 * [Roleplay Setup One Button](#roleplay-setup-one-button)
+	 * [Roleplay Activity One Button](#roleplay-activity-one-button)
+* [Resources](#resources)
+
 ## Topic Description
 This lesson provides an introduction to using one switch to control the behavior of a micro:bit.
 
@@ -43,10 +62,10 @@ Students will be able to:
 	* Note: There are two buttons on the micro:bit . We are using only one of them for now.
 	* Let students to explore #1,2,3 by themselves  [One Button Storyboard](https://docs.google.com/document/d/1sJXzpyopJHPfDxYFEWaTyioI7CTev-vnMSKq3Yn4oL8/edit?usp=sharing) 
 * Lead class through completing #4 
-	* Have students open  [One_Switch_Starter](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/One_Button_Starter.py) 
-	* See  [One_Switch_ON_OFF](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/One_Button_ON_OFF.py)  for the solution In pairs, students complete #5 and #6.
+	* Have students open  [One_Switch_Starter](One_Button_Starter.py) 
+	* See  [One_Switch_ON_OFF](One_Button_ON_OFF.py)  for the solution In pairs, students complete #5 and #6.
 	* Remember to connect one Wristband to the correct pin!
-	
+
 ### Create light pattern functions (30 min)
 * Introduce the BUILDING BLOCKS Section of their program.
 	* They will create their own function for their light patterns.
@@ -58,12 +77,12 @@ Students will be able to:
 		* “:” - marks the end of the definition statement and beginning of the actual function definition. 
 		* The body of the function gets indented after “:”
 	* The helper function mentioned below is an example of a personalized light function. 
-		* See  [Helper_Functions](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/Helper_Functions.py) 
+		* See  [Helper_Functions](Helper_Functions.py) 
 	* See Python Reference - Functions:  [https://www.w3schools.com/python/python_functions.asp](https://www.w3schools.com/python/python_functions.asp) 
 * Students complete complete #6 to #12 on  [One Switch Storyboard.pdf](https://docs.google.com/document/d/1sJXzpyopJHPfDxYFEWaTyioI7CTev-vnMSKq3Yn4oL8/edit?usp=sharing) 
 * OPTIONAL EXTENSION: Helper Functions
 	* Optionally, share how functions can be used as building blocks
-		* See  [Helper_Functions](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/Helper_Functions.py) 
+		* See  [Helper_Functions](Helper_Functions.py) 
 	* Use  [Helper Function Storyboard.pdf](https://drive.google.com/open?id=0B505sHFnjLeMM2tVUGltSGYxQzA) 
 
 ## Recommended addition: One Button Class Roleplay (40 min total)
@@ -130,8 +149,8 @@ while True:
 * Materials: micro:bit, micro usb cable, computer, wristbands, alligator clips
 * W3 School Python Reference - If/Else:  [https://www.w3schools.com/python/python_conditions.asp](https://www.w3schools.com/python/python_conditions.asp)  
 *  [One Switch Storyboard.pdf](https://drive.google.com/open?id=1WNgTiD0sWECxDkIKOc97ncY3actTX78t) 
-*  [One_Switch_Starter](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/One_Button_Starter.py) 
-*  [One_Switch_ON_OFF](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/One_Button_ON_OFF.py) 
+*  [One_Switch_Starter](One_Button_Starter.py) 
+*  [One_Switch_ON_OFF](One_Button_ON_OFF.py) 
 * W3 School Python Reference - Functions:  [https://www.w3schools.com/python/python_functions.asp](https://www.w3schools.com/python/python_functions.asp)  
-*  [Helper_Functions](https://github.com/jimmy0017/etextilesresearch/blob/master/12_programming%20with%20One%20Button/Helper_Functions.py) 
+*  [Helper_Functions](Helper_Functions.py) 
 *  [Helper Function Storyboard.pdf](https://drive.google.com/open?id=0B505sHFnjLeMM2tVUGltSGYxQzA) 
