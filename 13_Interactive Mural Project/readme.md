@@ -1,5 +1,26 @@
 # Instructional Days:13-18. Interactive Mural Project.
 
+Table of Contents
+=================
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+	 * [Journal Entry(5 min)](#journal-entry5-min)
+	 * [Introduce Interactive Mural Project (20 min)](#introduce-interactive-mural-project-20-min)
+	 * [Aesthetic and circuit design (30 min)](#aesthetic-and-circuit-design-30-min)
+	 * [Students pairs begin crafting and programming (35 min)](#students-pairs-begin-crafting-and-programming-35-min)
+	 * [Design Notebook (10 min)](#design-notebook-10-min)
+	 * [Two Button Roleplay (45 min)](#two-button-roleplay-45-min)
+	 * [Journal Entry](#journal-entry)
+	 * [Crafting and programming (35 min)](#crafting-and-programming-35-min)
+	 * [Debugging Activity (20 min)](#debugging-activity-20-min)
+	 * [Crafting and Programming (100 min)](#crafting-and-programming-100-min)
+	 * [Assemble the class mural and explore (20 min)](#assemble-the-class-mural-and-explore-20-min)
+	 * [Design Notebook entry (10 min)](#design-notebook-entry-10-min)
+* [Resources](#resources)
+
 ## Topic Description
 This lesson has students create an interactive mural.
 
