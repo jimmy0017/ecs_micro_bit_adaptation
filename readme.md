@@ -21,7 +21,7 @@ Please cite this work as Fields, D. A., Landa, J., Nakajima, T., Kafai, Y. B., G
 
 | Instructional Day | Topic                                                                                                                                                                                          |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1-2               | Introduce basic electronic components and circuitry.,Students will design and create a simple circuit on paper (Electronic Greeting Card) using a cell battery, copper tape, and one LED light |
+| 1-2               | [Introduce basic electronic components and circuitry.,Students will design and create a simple circuit on paper (Electronic Greeting Card) using a cell battery, copper tape, and one LED light](01_Ecard) |
 | 3                 | Explore the DIY Community                                                                                                                                                                      |
 | 4-7               | Introduce electronic sewing, students stitch a wearable parallel circuit that includes a switch                                                                                                |
 | 8-9               | Introduce how LEDs can exhibit various behaviors through computational circuits                                                                                                                |
@@ -30,8 +30,3 @@ Please cite this work as Fields, D. A., Landa, J., Nakajima, T., Kafai, Y. B., G
 | 13-18             | Students create an interactive mural                                                                                                                                                           |
 | 19                | Use a sensor as analog input                                                                                                                                                                   |
 | 20-31             | Design and craft a human sensor project                                                                                                                                                        |
-|                   |                                                                                                                                                                                                |
-|                   |                                                                                                                                                                                                |
-|                   |                                                                                                                                                                                                |
-|                   |                                                                                                                                                                                                |
-|                   |                                                                                                                                                                                                |
