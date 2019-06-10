@@ -98,7 +98,8 @@ open the development environment (i.e.  [micro:bit Python](https://python.microb
 	* Have students hold up their patterns
 * Encourage some compliments: What did you like? What new ideas did you get?
 
-### Design Notebook entry: Write down some expert tips for programming light patterns in micro:bit Python. (5 min)
+### Design Notebook entry (5 min)
+Write down some expert tips for programming light patterns in micro:bit Python. 
 
 
 ## Resources
