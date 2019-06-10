@@ -1,14 +1,14 @@
 # Instructional Days:13-18. Interactive Mural Project.
 
-## Topic Description:
+## Topic Description
 This lesson has students create an interactive mural.
 
-## Objectives:
+## Objectives
 Students will be able to:
 * Craft part of a collaborative mural that uses a computational circuit and switches 
 * Program a computational circuit with complex conditionals that respond to user input
 
-## Outline of the Lesson:
+## Outline of the Lesson
 * Journal Entry (5 minutes)
 * Introduction of project (20 minutes)
 * Aesthetic and circuit design (30 minutes) 
@@ -21,7 +21,7 @@ Students will be able to:
 * Class mural exploration (20 minutes)
 * Design Notebook entry (10 minutes)
 
-## Student Activities:
+## Student Activities
 * Respond to journal entry
 * Participate in the introduction of project.
 * Collaborate with a partner to design their project.
@@ -33,7 +33,7 @@ Students will be able to:
 * Explore class mural.
 * Complete Design Notebook entry.
 
-## Teaching/Learning Strategies: 
+## Teaching/Learning Strategies
 ### Journal Entry(5 min)
 * If you have 2 buttons, how many different ways could you arrange them (i.e., On and Off)? How many ways are there total? 
 * Share with elbow partner.
