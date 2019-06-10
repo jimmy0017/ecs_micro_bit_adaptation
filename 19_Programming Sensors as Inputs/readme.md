@@ -1,5 +1,24 @@
 # Instructional Day:19. Programming Sensors as Inputs.
 
+Table of Contents
+=================
+* [Topic Description](#topic-description)
+* [Objectives](#objectives)
+* [Outline of the Lesson](#outline-of-the-lesson)
+* [Student Activities](#student-activities)
+* [Teaching/Learning Strategies](#teachinglearning-strategies)
+	* [Journal Entry (5 min)](#journal-entry-5-min)
+	* [Digital vs. Analogue (20 min)](#digital-vs-analogue-20-min)
+	* [Resources](#resources)
+	* [Analog inputs (15 min)](#analog-inputs-15-min)
+	* [Storyboard (15 min)](#storyboard-15-min)
+	* [Program conditionals (15 min)](#program-conditionals-15-min)
+	* [Design Notebook (5 min)](#design-notebook-5-min)
+* [Recommended: Explanation of Digital versus Analog (25-30 minutes total)](#recommended-explanation-of-digital-versus-analog-25-30-minutes-total)
+	* [Digital vs. Analogue (20 min)](#digital-vs-analogue-20-min-1)
+ 	* [Journal Entry(6 min)](#journal-entry6-min)
+* [Resources](#resources-1)
+
 ## Topic Description
 This lesson introduces students to using a sensor as analog (vs digital) input.
 
@@ -61,7 +80,7 @@ Students will be able to:
 ### Storyboard (15 min)
 * In pairs, have students load  [Light_Sensor_Starter code](Light_Sensor_Starter.py) 
 * Pairs will complete  [Light Sensor Storyboard.pdf](https://drive.google.com/open?id=0Bxk0iHqkw1WFWDB3Q0hsalhnS0U) 
-* 
+
 ### Program conditionals (15 min)
 * Have students complete the Activity Section of their program and test it.
 	* Students’ solutions may vary from the  [sample solution](https://drive.google.com/open?id=1g_1rWQhKe_RPU_0axBkzsdbtjCvhPLOm)  due to the brightness of classroom, etc.
