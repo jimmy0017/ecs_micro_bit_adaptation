@@ -69,7 +69,7 @@ Students will be able to:
 		* [Two ways: The longer lead wire is positive. There is also a small notch in the plastic on the positive side of the LED]
 		* **Pro tip***: It might help to color one leg (e.g., positive) of the LED with a marker to see it more easily.*
 * Show the Chibitronics tutorial video (Circuit Sticker #1).  [http://chibitronics.com/simple-circuit-tutorial/](http://chibitronics.com/simple-circuit-tutorial/)  
-* If desired: Demonstrate some eCards as examples from Technical Guide [link to e-textiles design ideas p. 56]. Or share a Google Images search on: “paper circuit LED” and “copper tape” 
+* If desired: Demonstrate some eCards as examples from Technical Guide [e-textiles design ideas p. 56]. Or share a Google Images search on: “paper circuit LED” and “copper tape” 
 
 ### Circuit design
 * Show the circuit diagram from the Chibitronics website (Circuit Drawing Handout):  [https://drive.google.com/open?id=1JVlrXR5zfgEZivIEK7IIqfyK-cVcwONF](https://drive.google.com/open?id=1JVlrXR5zfgEZivIEK7IIqfyK-cVcwONF)  
@@ -94,9 +94,9 @@ Students will be able to:
 
 ## Resources
 * E-Textiles Technical Guide:
-	* Circuitry [link to Circuitry p. 8]
-	* Materials [link to Materials p. 60]
-	* Paper Circuit Design Example [link to E-textiles Design Ideas: e-cards p. 56]
+	* Circuitry [Circuitry p. 8]
+	* Materials [Materials p. 60]
+	* Paper Circuit Design Example [E-textiles Design Ideas: e-cards p. 56]
 * Website with video, circuit template, and samples:  [http://chibitronics.com/simple-circuit-tutorial/](http://chibitronics.com/simple-circuit-tutorial/)  
 * Materials for each student: Printout of  [Circuit Drawing Handout](https://drive.google.com/open?id=1JVlrXR5zfgEZivIEK7IIqfyK-cVcwONF) , 1 LED with lead wires, paper for circuit sketch, paper for the project (plain copy paper is fine), copper tape (approximately 18 inches), 1 cell battery, binder clip or paper clip.
 * Design Notebooks

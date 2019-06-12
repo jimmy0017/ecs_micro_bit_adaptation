@@ -58,7 +58,7 @@ Students will be able to:
 open the development environment (i.e.  [micro:bit Python](https://python.microbit.org/) ) (students work in pairs) (5 min)
 * Show students how to connect the micro:bit to a computer using a micro-USB cable
 	* *Tip: Sometimes there is an error message about a “keyboard” not working. Ignore this. The computer sometimes assumes that the micro:bit is an external keyboard.*
-* See E-Textiles Technical Guide: Basic Programming for Electronic Textiles [link to (pp. 25)]
+* See E-Textiles Technical Guide: Basic Programming for Electronic Textiles [(pp. 25)]
 
 ### Review layout of program (10 min)
 * Use  [TurnOnTheLights_Starter.py](TurnOnTheLights_Starter.py) 
